@@ -1,0 +1,17 @@
+{
+  "name": "Shadow Rush: Flight & Fight",
+  "short_name": "Shadow Rush",
+  "description": "Um arcade 2D de fantasia sombria, jogável offline.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#05050a",
+  "theme_color": "#d92d3f",
+  "orientation": "portrait",
+  "lang": "pt-BR",
+  "icons": [{
+    "src": "/icon.svg",
+    "sizes": "any",
+    "type": "image/svg+xml",
+    "purpose": "any maskable"
+  }]
+}
